@@ -1,0 +1,6 @@
+C:\Academy\Work\Olioharjoitus\Piirtoavut\bin\Debug\Piirtoavut.dll
+C:\Academy\Work\Olioharjoitus\Piirtoavut\bin\Debug\Piirtoavut.pdb
+C:\Academy\Work\Olioharjoitus\Piirtoavut\obj\Debug\Piirtoavut.csprojResolveAssemblyReference.cache
+C:\Academy\Work\Olioharjoitus\Piirtoavut\obj\Debug\Piirtoavut.csproj.CoreCompileInputs.cache
+C:\Academy\Work\Olioharjoitus\Piirtoavut\obj\Debug\Piirtoavut.dll
+C:\Academy\Work\Olioharjoitus\Piirtoavut\obj\Debug\Piirtoavut.pdb

@@ -1,0 +1,43 @@
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_09\Testeri\bin\Debug\Testeri.exe.config
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_09\Testeri\bin\Debug\Testeri.exe
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_09\Testeri\bin\Debug\Testeri.pdb
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_09\Testeri\bin\Debug\Piirtoavut.dll
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_09\Testeri\bin\Debug\Piirtoavut.pdb
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_09\Testeri\obj\Debug\Testeri.csprojResolveAssemblyReference.cache
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_09\Testeri\obj\Debug\Testeri.Form1.resources
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_09\Testeri\obj\Debug\Testeri.Properties.Resources.resources
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_09\Testeri\obj\Debug\Testeri.csproj.GenerateResource.Cache
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_09\Testeri\obj\Debug\Testeri.exe
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_09\Testeri\obj\Debug\Testeri.pdb
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_TesterPohja\Testeri\bin\Debug\Testeri.exe.config
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_TesterPohja\Testeri\obj\Debug\Testeri.exe
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_TesterPohja\Testeri\obj\Debug\Testeri.pdb
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_TesterPohja\Testeri\obj\Debug\Testeri.csprojResolveAssemblyReference.cache
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_TesterPohja\Testeri\obj\Debug\Testeri.Form1.resources
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_TesterPohja\Testeri\obj\Debug\Testeri.Properties.Resources.resources
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_TesterPohja\Testeri\obj\Debug\Testeri.csproj.GenerateResource.Cache
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_TesterPohja\Testeri\bin\Debug\Testeri.exe
+C:\Work\CSFX_Olioharjoitus_Pohja\Olioharjoitus\Olioharjoitus_TesterPohja\Testeri\bin\Debug\Testeri.pdb
+C:\Kursmat\C# ja .NET ohjelmointi(514)\Pohjat\CSFX\Pohjat VS 2012-2015\Olioharjoitus\Testeri\bin\Debug\Testeri.exe.config
+C:\Kursmat\C# ja .NET ohjelmointi(514)\Pohjat\CSFX\Pohjat VS 2012-2015\Olioharjoitus\Testeri\bin\Debug\Testeri.exe
+C:\Kursmat\C# ja .NET ohjelmointi(514)\Pohjat\CSFX\Pohjat VS 2012-2015\Olioharjoitus\Testeri\bin\Debug\Testeri.pdb
+C:\Kursmat\C# ja .NET ohjelmointi(514)\Pohjat\CSFX\Pohjat VS 2012-2015\Olioharjoitus\Testeri\obj\Debug\Testeri.csprojResolveAssemblyReference.cache
+C:\Kursmat\C# ja .NET ohjelmointi(514)\Pohjat\CSFX\Pohjat VS 2012-2015\Olioharjoitus\Testeri\obj\Debug\Testeri.Form1.resources
+C:\Kursmat\C# ja .NET ohjelmointi(514)\Pohjat\CSFX\Pohjat VS 2012-2015\Olioharjoitus\Testeri\obj\Debug\Testeri.Properties.Resources.resources
+C:\Kursmat\C# ja .NET ohjelmointi(514)\Pohjat\CSFX\Pohjat VS 2012-2015\Olioharjoitus\Testeri\obj\Debug\Testeri.csproj.GenerateResource.cache
+C:\Kursmat\C# ja .NET ohjelmointi(514)\Pohjat\CSFX\Pohjat VS 2012-2015\Olioharjoitus\Testeri\obj\Debug\Testeri.csproj.CoreCompileInputs.cache
+C:\Kursmat\C# ja .NET ohjelmointi(514)\Pohjat\CSFX\Pohjat VS 2012-2015\Olioharjoitus\Testeri\obj\Debug\Testeri.exe
+C:\Kursmat\C# ja .NET ohjelmointi(514)\Pohjat\CSFX\Pohjat VS 2012-2015\Olioharjoitus\Testeri\obj\Debug\Testeri.pdb
+C:\Academy\Work\Olioharjoitus\Testeri\bin\Debug\Testeri.exe.config
+C:\Academy\Work\Olioharjoitus\Testeri\bin\Debug\Testeri.exe
+C:\Academy\Work\Olioharjoitus\Testeri\bin\Debug\Testeri.pdb
+C:\Academy\Work\Olioharjoitus\Testeri\bin\Debug\Piirtoavut.dll
+C:\Academy\Work\Olioharjoitus\Testeri\bin\Debug\Piirtoavut.pdb
+C:\Academy\Work\Olioharjoitus\Testeri\obj\Debug\Testeri.csprojResolveAssemblyReference.cache
+C:\Academy\Work\Olioharjoitus\Testeri\obj\Debug\Testeri.Form1.resources
+C:\Academy\Work\Olioharjoitus\Testeri\obj\Debug\Testeri.Properties.Resources.resources
+C:\Academy\Work\Olioharjoitus\Testeri\obj\Debug\Testeri.csproj.GenerateResource.cache
+C:\Academy\Work\Olioharjoitus\Testeri\obj\Debug\Testeri.csproj.CoreCompileInputs.cache
+C:\Academy\Work\Olioharjoitus\Testeri\obj\Debug\Testeri.csproj.CopyComplete
+C:\Academy\Work\Olioharjoitus\Testeri\obj\Debug\Testeri.exe
+C:\Academy\Work\Olioharjoitus\Testeri\obj\Debug\Testeri.pdb
